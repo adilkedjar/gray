@@ -1,0 +1,216 @@
+body{
+    font-family: Nunito;
+    letter-spacing: .0625em;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.boots{
+ padding-right: 335px;
+ font-size: 1.25rem;
+ font-weight: 700;
+ color: rgba(255,255,255,.5);
+ text-decoration: none;
+}
+.back{
+    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(./bg-masthead.jpg);
+    background-size: cover;
+}
+.carte{
+    padding-top: 130px;
+    text-decoration: none;
+
+}
+.couleur{
+    color: rgb(0, 162, 255);
+}
+.ipad{
+height: 300px;
+}
+.fond2{
+background-color: white;
+padding-top: 5%;
+padding-bottom: 50px;
+}
+.photo{
+width: 102%
+}
+.cartes{
+text-decoration: none;
+padding-top: 40%;
+}
+
+.images{
+background-image:url(./bg-signup.jpg)
+}
+
+.formulaire{
+    padding-top: 5%;
+    padding-bottom: 7%;
+    font-size: 2rem;
+}
+.bouton{
+    padding-bottom:10%;
+    padding-bottom: 25%;
+}
+
+.fond4{
+    background-color: black;
+}
+.ligne{
+    border-color: #64a19d;
+    border-width: .25rem;
+    width: 3rem;
+}
+
+
+.icone{
+    border: #000000;
+    text-decoration: none;
+}
+.card-group{
+    padding: 80px 0px 0px 0px;
+}
+
+.backgr{
+    background:linear-gradient(#000000, #454546);
+}
+
+.pad{
+    padding-bottom: 140px;
+}
+.preview{
+    color: #64a19d;
+}
+
+.Grayscale{
+    font-size: 6.5rem;
+    line-height: 6.5rem;
+    color:rgb(179, 179, 179);
+}
+
+.Free{
+    font-size: 1.25rem;
+    padding-bottom: 30px;
+    color: rgba(255,255,255,.5)!important
+}
+
+.boutonn{
+    padding: 1.25rem 2rem;
+    font-family: 'Varela Round';
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    border: 0;
+    background-color: #467370!important
+}
+
+.built{
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 1.5rem!important;
+    color: white;
+}
+
+.gfree{
+   color:rgba(255,255,255,.5)!important;
+}
+
+.Shoreline{
+    font-weight: 500;
+    font-size: 1.5rem;
+    padding-left: 25px;
+}
+.textS{
+    color: rgba(0,0,0,.5)!important;
+    padding-left: 25px;
+}
+
+.withe{
+    color: #fff!important;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1.5rem;
+    font-size: 90%;
+    font-size: 1.5rem;
+}
+.txt{
+    text-align: right;
+}
+
+.texte{
+    color: rgba(255,255,255,.5)!important;
+}
+
+.text{
+    padding: 1.25rem 2rem;
+    height: auto;
+    font-family: 'Varela Round';
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    border: 0;
+    font-size: 80%;
+}
+
+.Subscribe{
+    padding: 1.25rem 2rem;
+    font-family: 'Varela Round';
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    border: 0;
+    background-color: #64a19d;
+}
+
+.title{
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    font-size: 0.7rem;
+}
+.ctext{
+    color: rgba(0,0,0,.5)!important;
+    font-size: 80%;
+}
+
+.hello{
+    text-decoration: none;
+    color: #3c6360;
+    font-size: 80%;
+}
+.font{
+    font-size: 80%;
+    color: gray;
+
+}
+
+.mountains{
+    border-color: #64a19d;
+    border-width: .25rem;
+    width: 30%;
+    margin-left: 0!important;
+}
+.misty{
+    border-color: #64a19d;
+    border-width: .25rem;
+    width: 30%;
+    margin-right: 0!important;
+}
+
+.far{
+    padding-top: 35%;
+    font-size: 2em;
+}
+.b-text{
+    border-left: solid #64a19d 0.5rem;
+}
+
+.fas{
+    color:#64a19d!important;
+}
